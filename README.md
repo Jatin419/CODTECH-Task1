@@ -1,35 +1,41 @@
-Name: Jatin Choudhury
-Company: CODTECH IT SOLUTIONS
-ID: CT04DS5732
-Domain: Data Analytics
-Duration: 23 July to 23 August
-Mentor: Muzammil Ahmed
+# Exploratory Data Analysis (EDA) on Titanic Dataset
 
-Overview of the Project 
+**Name:** Jatin Choudhury  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT04DS5732  
+**Domain:** Data Analytics  
+**Duration:** 23 July to 23 August  
+**Mentor:** Muzammil Ahmed
 
-Project:Exploratory Data Analysis(EDA) on Titanic Dataset
+## Overview of the Project
 
-Objective
-This project analysis is focus on understanding the relationships between various passenger attributes (such as age, gender, and ticket class) and their impact on survival. This project also aims to build and evaluate different machine learning models to find the most accurate approach for predicting survival.
+### Objective
+This project focuses on understanding the relationship between passenger characteristics (such as age, gender and ticket class) and their impact on survival The project aims to build and test various machine learning models for exploration a very accurate way to predict survival.
 
-Key Activities
-1.Data Loading and Exploration:Load the Titanic dataset and perform initial exploration, including viewing the first few records and checking the data types, summary statistics, and missing values.
+### Key Activities
+1. **Data Loading and Exploration:**  
+   Load the Titanic dataset and perform initial exploration, including viewing the first few records and checking data types, summary statistics, and missing values.
 
-2.Data Cleaning:Handle missing data by analyzing the extent of missing values and applying appropriate strategies such as imputation or removal of irrelevant features.
+2. **Data Cleaning:**  
+Manage missing data by applying appropriate procedures such as analyzing the extent of missing values ​​and filling in or removing unnecessary items.
 
-3.Exploratory Data Analysis (EDA):Analyze relationships between features and the target variable (Survived) using visualizations like histograms, bar plots, and correlation matrices.
+4. **Exploratory Data Analysis (EDA):**  
+   Analyze relationships between features and the target variable (Survived) using visualizations like histograms, bar plots, and correlation matrices.
 
-4.Feature Engineering:Create new features or modify existing ones to improve the model's predictive power.
+5. **Feature Engineering:**  
+Create new features or modify existing features to improve the predictive power of the model.
 
-5.Visualization:Visualize the results of the models and the important features contributing to predictions.
+7. **Visualization:**  
+   Visualize the results of the models and the important features contributing to predictions.
 
-Technologies and Tools
- 1.Programming Language: Python
- 2.Libraries:
-   Pandas: For data manipulation and analysis.
-   NumPy: For numerical operations.
-   Seaborn & Matplotlib: For data visualization.
-   Scikit-Learn: For implementing machine learning models.
+### Technologies and Tools
+- **Programming Language:** Python
+- **Libraries:** 
+  - Pandas: For data manipulation and analysis
+  - NumPy: For numerical operations
+  - Seaborn & Matplotlib: For data visualization
+  - Scikit-Learn: For implementing machine learning models
+
 
 Output:
 
@@ -45,17 +51,3 @@ Output:
 ![Screenshot 2024-08-21 213900](https://github.com/user-attachments/assets/70fe24a4-bf4c-4478-b3cf-09c7456e0a54)
 ![Screenshot 2024-08-21 213909](https://github.com/user-attachments/assets/7738a5bc-b600-4bad-94fc-6c178878dc96)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
