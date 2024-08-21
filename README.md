@@ -36,6 +36,16 @@ Output:
 
 
 ![Screenshot 2024-08-21 213058](https://github.com/user-attachments/assets/822eacdd-be82-4617-aaa5-4422a3f20740)
+![Screenshot 2024-08-21 213126](https://github.com/user-attachments/assets/bdfd6862-a84e-4c09-a4ba-c03fd93cc32c)
+![Screenshot 2024-08-21 213147](https://github.com/user-attachments/assets/07a1d571-ada7-4414-8368-ea14952c3650)
+![Screenshot 2024-08-21 213208](https://github.com/user-attachments/assets/99c03215-2133-4c0c-b8fb-77baf2c6d2ac)
+![Screenshot 2024-08-21 213711](https://github.com/user-attachments/assets/5ad576e6-6c54-4878-9c2f-7f3501d75f89)
+![Screenshot 2024-08-21 213728](https://github.com/user-attachments/assets/af5fa33b-6465-4e3c-a4d5-5b0be47fde9a)
+![Screenshot 2024-08-21 213837](https://github.com/user-attachments/assets/7934a3e6-46cd-4389-8485-3514df8db4c4)
+![Screenshot 2024-08-21 213900](https://github.com/user-attachments/assets/70fe24a4-bf4c-4478-b3cf-09c7456e0a54)
+![Screenshot 2024-08-21 213909](https://github.com/user-attachments/assets/7738a5bc-b600-4bad-94fc-6c178878dc96)
+
+
 
 
 
