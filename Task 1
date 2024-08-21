@@ -1,0 +1,49 @@
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+df= pd.read_csv("Titanic.csv")
+df.head(10)
+
+df.info()
+
+df.isnull().sum()
+
+df.describe()
+
+df.shape
+
+df.columns
+
+df.dtypes
+
+#filling null values
+df['Age']=df['Age'].fillna(df['Age'].mean())
+df['Fare']=df['Fare'].fillna(df['Fare'].mean())
+
+#check for null values
+df.isnull().sum()
+
+#converting data types
+df['Age']=df['Age'].astype(int)
+df['Fare']=df['Fare'].astype(int)
+
+df.dtypes
+
+plt.hist(df['Age'])
+
+df['Age'].value_counts()
+
+df = df.drop(columns=['PassengerId'], errors='ignore')
+
+df['Fare'].value_counts()
+
+df.Survived.value_counts()
+
+df.Pclass.value_counts()
+
+df.hist(bins=20,figsize=(15,15))
+df.plot(kind='box',subplots=True,layout=(3,3),figsize=(15,15))
+
+sns.heatmap(df.isnull());
